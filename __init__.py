@@ -11,7 +11,7 @@ bl_info = {
     "location": "Properties > Data",
     "description": "Add a panel to move the list of vertex groups.",
     "warning": "Trying to sort dozens of vertex groups can take a long time and render Blender busy.",
-    "support": "TESTING",
+    "support": "COMMUNITY",
     "wiki_url": "",
     "tracker_url": "",
     "category": "User Interface"
